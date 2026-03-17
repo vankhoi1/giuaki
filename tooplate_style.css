@@ -50,7 +50,7 @@ a.more {
 	text-align: center; 
 	color: #000; 
 	font-weight: bold; 
-	background: url(images/tooplate_button.png); 
+	background: blue;
 }
 
 a.more:hover { 
